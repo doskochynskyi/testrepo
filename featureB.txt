@@ -1,1 +1,2 @@
 non squash commit 1
+non squash commit 2
